@@ -1,3 +1,0 @@
-regression: https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
-
-classification: https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact
