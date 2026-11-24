@@ -1,0 +1,14 @@
+pandas>=2.0
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+jupyterlab
+ipykernel
+ydata-profiling
+phik
+sweetviz
+mlxtend
+
+setuptools<81   # ydata-profiling 4.18 still imports pkg_resources

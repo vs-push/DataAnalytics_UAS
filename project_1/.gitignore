@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+reports/*.html
+.virtual_documents
+exercise_project_1_report_regression.ipynb
+exercise_project_1_report_classification.ipynb
+report.ipynb
